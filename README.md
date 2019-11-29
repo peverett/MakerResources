@@ -85,7 +85,7 @@ How to get started with Arduino, Raspberry Pi, simple Circuit Design and 3D prin
 
 ## Android
 
-[![Android](images/android.jpg)](https://developer.android.com/studio)
+[![Android](images/Android.jpg)](https://developer.android.com/studio)
 
 **Advantages**
 * Android devices are almost ubiquitous - watches, phones, tablets. 
