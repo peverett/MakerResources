@@ -129,7 +129,8 @@ An open source Computer Aided Design tool specifically aimed at Microcontrollers
 You can design breadboard circuits for your microcontroller, convert them to schematics, even PCB add-on boards for Arduino or Raspberry Pi
 
 **Is it free?**
-There is a small fee $8 requested for supporting the development, when downloading.
+
+There is a small fee of $8 requested for supporting the development, when downloading the application.
 
 # 3D Printing
 
